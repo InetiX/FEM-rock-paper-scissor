@@ -94,21 +94,8 @@ function housePickChange() {
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 
-## Author
 
-- Website - [Benjo Quilario](https://www.your-site.com)
-- Frontend Mentor - [@benjoquilario](https://www.frontendmentor.io/profile/benjoquilario)
-- Twitter - [@iam_benjo](https://twitter.com/iam_benjo)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-My Tips is to use the @use keyword and not do not use import for scss/sass
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
